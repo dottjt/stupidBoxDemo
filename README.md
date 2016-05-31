@@ -27,7 +27,7 @@ test_    .js - Reorganise code so that each keypress doesn't speed up the box
 
 # Bugs
 
-- The box shakes uncontrollably once moved.
+- The box shakes uncontrollably once it stops? 
 - Each keypress makes the box speed up. 
 - Create repository!
 - Try and make the snake work within an X/Y grid. 

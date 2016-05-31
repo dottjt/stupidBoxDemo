@@ -5,14 +5,13 @@
 function snakeMovementLeft() { 
 	var snake = document.getElementById("snake");
 	var pos = 0;
-	var id = setInterval(moveleft, 5);
+	var id = setInterval(moveleft, 100);
 	function moveleft() {
 		if (pos === 760) {
 			clearInterval(id);
 		} else {
-			pos++;
+			pos += 30;
 			snake.style.left = pos + 'px';
-
 		}
 	}
 }
