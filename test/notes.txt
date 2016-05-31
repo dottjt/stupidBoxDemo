@@ -1,0 +1,3 @@
+test_51.js 
+
+I need it stop pos++ iteration if ypos value changes 

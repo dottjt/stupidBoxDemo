@@ -1,0 +1,17 @@
+#arena {
+	position: relative;
+	width: 401px;
+	height: 401px;
+	border-sizing: border-box;
+	margin: 0 auto;
+	border: 1px solid;
+}
+
+#snake { 
+	margin: 1px;
+	width: 39px;
+	height: 39px;
+	border: 1px solid;
+	position: relative;
+}
+
